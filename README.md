@@ -23,6 +23,11 @@ Develop a simple notification system to alert users about disasters and inquire 
 - Questions to include in the notification:
   - "Are you coming to the fire?"
   - "Are you available to help with the fire?"
+ 
+  ![Demo of Emergency Response App](request_process.gif)
+  ![Demo of Emergency Response App](Responding.gif)
+
+
 
 ## Additional Considerations
 - Possible connection to calling 911 to have them push the notification, making the maping a little easier.
