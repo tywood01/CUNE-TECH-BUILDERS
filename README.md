@@ -3,7 +3,7 @@ This repository is for the 2024 CUNE Tech Builder Competition
 # Emergency Resource Network for Farmers
 
 ## Problem Statement
-There's a significant fire at a farm, putting animals and crops at risk. The fire department will respond, but we need a way to facilitate better communication and resource sharing among local farmers and other community members.
+During farm disasters, many people want to help but there is no efficient way to connect helpers with those in need.
 
 ## User Profile
 **Primary Users:** Farmers  
